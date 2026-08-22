@@ -1,0 +1,3 @@
+// GitHub Pages configuration.
+// Replace the URL below with your deployed WebSocket signaling server.
+window.INTRASEND_SIGNALING_URL = "";
